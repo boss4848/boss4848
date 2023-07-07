@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there! I'm Passakorn Puttama 👋
+Currently, I am studying for a Bachelor's degree in Computer Science at SIT KMUTT.
 <!--
 **boss4848/boss4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
