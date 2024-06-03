@@ -3,7 +3,7 @@ I'm Passakorn Puttama (_Boss_). A person who loves Android and full-stack develo
 
 ### 🌱 Experiences
 - Freelance full-stack developer at Reading Advantage. 
-- Intern - Software Engineer, Android at LINEMAN Wongnai.
+- Intern - Software Engineer at LINEMAN Wongnai.
 
 ### ⚡ Education
 - Bachelor of Computer Science at SIT KMUTT (3rd year student).
