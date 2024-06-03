@@ -1,12 +1,16 @@
 ## Hi there! 👋
-I'm Passakorn Puttama. A person who loves Android and software development.
+I'm Passakorn Puttama (_Boss_). A person who loves Android and full-stack development. 🔥
 
 ### 🌱 Experiences
-- Freelance full-stack developer at Reading Advantage 
-- Software engineer intern, Android @ Lineman Wongnai
+- Freelance full-stack developer at Reading Advantage. 
+- Intern - Software Engineer, Android at LINEMAN Wongnai.
 
 ### ⚡ Education
-- Bachelor of Computer Science at SIT KMUTT (CS@SIT).
+- Bachelor of Computer Science at SIT KMUTT (3rd year student).
+
+### 🔭 Programming Languages
+[![Tools](https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,golang,lua)](https://skillicons.dev)
+
 <!--
 **boss4848/boss4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
