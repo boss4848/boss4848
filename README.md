@@ -1,5 +1,12 @@
-## Hi there! I'm Passakorn Puttama 👋
-Currently, I am studying for a Bachelor's degree in Computer Science at SIT KMUTT.
+## Hi there! 👋
+I'm Passakorn Puttama. A person who loves Android and software development.
+
+### 🌱 Experiences
+- Freelance full-stack developer at Reading Advantage 
+- Software engineer intern, Android @ Lineman Wongnai
+
+### ⚡ Education
+- Bachelor of Computer Science at SIT KMUTT (CS@SIT).
 <!--
 **boss4848/boss4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
