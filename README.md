@@ -6,7 +6,7 @@ I'm Passakorn Puttama (_Boss_). A person who loves Android and full-stack develo
 - Intern - Software Engineer at LINEMAN Wongnai.
 
 ### ⚡ Education
-- Bachelor of Computer Science at SIT KMUTT (3rd year student).
+- Bachelor of Computer Science at SIT KMUTT.
 
 ### 🔭 Programming Languages
 - Kotlin
