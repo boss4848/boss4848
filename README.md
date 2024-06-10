@@ -9,9 +9,15 @@ I'm Passakorn Puttama (_Boss_). A person who loves Android and full-stack develo
 - Bachelor of Computer Science at SIT KMUTT (3rd year student).
 
 ### 🔭 Programming Languages
-[![Tools](https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,golang,lua)](https://skillicons.dev)
+- Kotlin
+- Java
+- JavaScript/TypeScript
+- Python
+- Go
+- Lua
 
 <!--
+[![Tools](https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,golang,lua)](https://skillicons.dev)
 **boss4848/boss4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
