@@ -1,6 +1,7 @@
 ## Hi there! 👋
 I'm Passakorn Puttama (_Boss_). A person who loves Android and full-stack development.
 
+<!--
 ### ⚡ Education
 - Bachelor of Computer Science at SIT KMUTT.
 
@@ -12,7 +13,6 @@ I'm Passakorn Puttama (_Boss_). A person who loves Android and full-stack develo
 - Go
 - Lua
 
-<!--
 [![Tools](https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,golang,lua)](https://skillicons.dev)
 **boss4848/boss4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
